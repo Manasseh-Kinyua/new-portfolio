@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
 .navbar {
   background-color: purple;
   height: 80px;
@@ -94,4 +96,46 @@ a.active {
   width: 600px;
   margit-top: 50px;
   margin-left: 10px;
+}
+
+#wrapper {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  min-height: 100vh;
+  width: 100%;
+  background-image: url('../images/1.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#wrapper .inf {
+  padding: 30px 100px;
+}
+
+.inf article h1 {
+  font-size: 50px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.inf article h1::after {
+  content: "";
+  height: 5px;
+  width: 225px;
+  background-color: #fff;
+  display: block;
+  margin: auto;
+}
+
+.inf article img {
+  height: 200px;
+  width: 200px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  margin-top: 60px;
 }
