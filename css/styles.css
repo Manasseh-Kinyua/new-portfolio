@@ -127,7 +127,7 @@ a.active {
   content: "";
   height: 5px;
   width: 225px;
-  background-color: #fff;
+  background-color: white;
   display: block;
   margin: auto;
 }
@@ -135,7 +135,7 @@ a.active {
 .inf article img {
   height: 200px;
   width: 200px;
-  border: 2px solid #fff;
+  border: 2px solid white;
   border-radius: 50%;
   margin-top: 60px;
 }
