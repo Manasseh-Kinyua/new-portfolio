@@ -1,0 +1,10 @@
+.navbar {
+  background-color: purple;
+  height: 80px;
+}
+
+.logo {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
