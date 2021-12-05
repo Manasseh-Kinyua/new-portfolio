@@ -31,3 +31,28 @@ a:hover {
 a.active {
   background-color: black;
 }
+
+.home {
+  background-image: url('../images/cup.jpg');
+  height: 800px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.home .name p {
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: 100px;
+}
+
+.home .name h1 {
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: 100px;
+}
+
+.home .name p {
+  font-size: 30px;
+}
