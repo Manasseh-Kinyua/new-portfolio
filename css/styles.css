@@ -57,3 +57,30 @@ a.active {
   font-size: 30px;
   font-weight: bold;
 }
+
+#interest {
+  background-image: url('../images/bkg.jpeg');
+  height: 850px;
+}
+
+#interest .info {
+  background-color: yellow;
+  padding: 30px;
+  border-radius: 100px;
+  border:15px solid skyblue;
+  margin-left: 50px;
+  margin-top: 20px;
+  float: left;
+  width: 25%;
+}
+
+#interest .info2 {
+  background-color: yellow;
+  padding: 30px;
+  border-radius: 100px;
+  border:15px solid skyblue;
+  margin-left: 50px;
+  margin-top: 20px;
+  float: left;
+  width: 25%;
+}
