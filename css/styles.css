@@ -64,7 +64,7 @@ a.active {
 }
 
 #interest .info {
-  background-color: yellow;
+  background-color: skyblue;
   padding: 30px;
   border-radius: 100px;
   border:15px solid skyblue;
@@ -75,7 +75,7 @@ a.active {
 }
 
 #interest .info2 {
-  background-color: yellow;
+  background-color: skyblue;
   padding: 30px;
   border-radius: 100px;
   border:15px solid skyblue;
@@ -83,4 +83,15 @@ a.active {
   margin-top: 20px;
   float: left;
   width: 25%;
+}
+
+#interest img {
+  float: right;
+  border: 20px solid white;
+  margin-right: 80px;
+  border-radius: 100px;
+  height: 670px;
+  width: 600px;
+  margit-top: 50px;
+  margin-left: 10px;
 }
